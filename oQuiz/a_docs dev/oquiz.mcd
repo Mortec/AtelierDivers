@@ -1,0 +1,17 @@
+:
+:
+is right answer, 11 QUESTION, 01 ANSWER
+
+LEVEL: level name, status, created at, updated at
+has1, 0N LEVEL, 11 QUESTION
+QUESTION: question content, anecdote, wiki, status, created at, updated at
+has2, 0N QUESTION, 11 ANSWER
+ANSWER: answer description, status, created at, updated at
+
+has3, 11 QUESTION, 0N QUIZ
+
+APP_USER: first name, last name, email, hashed password, status, created at, updated at
+is author, 0N APP_USER, 11 QUIZ
+QUIZ: title, quiz description, status, created at, updated at
+has4, 0N QUIZ, 0N TAG
+TAG: tag name, status, created at, updated at

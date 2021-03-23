@@ -1,0 +1,6 @@
+list: id, list_title, list_order, created_at, updated_at
+contains, 0N list, 11 card
+card: id, card_title, card_order, list_id, label_id, created_at, updated_at
+:
+qualify, 0N label, 0N card
+label: id, label_name, label_color, card_id, created_at, updated_at

@@ -1,0 +1,37 @@
+body {
+    font-size: 1rem;
+    height: 100vh;
+
+}
+
+.box {
+    padding: 0.625rem;
+    cursor: move;
+}
+
+.box:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+
+.container{
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.list-name{
+    cursor: move;
+}
+
+.tete{
+    display: flex;
+    width: 30vw;
+    display: flexs;
+}
+
+#lists{
+    margin : 2em;
+}
+
+h1{
+    margin: 0em 0.5em;
+}

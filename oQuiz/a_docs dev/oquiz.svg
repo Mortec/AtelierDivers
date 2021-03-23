@@ -1,0 +1,190 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="730" height="478" view_box="0 0 730 478"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Mon, 08 Jul 2019 07:17:30</desc>
+
+<rect id="frame" x="0" y="0" width="730" height="478" fill="none" stroke="none" stroke-width="0"/>
+
+<!-- Association is right answer -->
+<line x1="378" y1="156" x2="504" y2="35" stroke="#726f83" stroke-width="1"/>
+<text x="456" y="95.0282111432" fill="#726f83" font-family="Courier New" font-size="12">1,1</text>
+<line x1="639" y1="156" x2="504" y2="35" stroke="#726f83" stroke-width="1"/>
+<text x="578.342822412" y="95" fill="#726f83" font-family="Courier New" font-size="12">0,1</text>
+<g id="association-is right answer">
+	<path d="M 561 9 a 14 14 90 0 1 14 14 V 35 h -142 V 23 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 575 35.0 v 12 a 14 14 90 0 1 -14 14 H 447 a 14 14 90 0 1 -14 -14 V 35.0 H 142" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="433" y="9" width="142" height="52" fill="none" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="433" y1="35" x2="575" y2="35" stroke="#85956b" stroke-width="1"/>
+	<text x="440" y="27.6" fill="#27360c" font-family="Courier New" font-size="14">is right answer</text>
+</g>
+
+<!-- Association is author -->
+<line x1="78" y1="389" x2="226" y2="389" stroke="#726f83" stroke-width="1"/>
+<text x="152" y="405.0" fill="#726f83" font-family="Courier New" font-size="12">0,N</text>
+<line x1="378" y1="389" x2="226" y2="389" stroke="#726f83" stroke-width="1"/>
+<text x="277" y="405.0" fill="#726f83" font-family="Courier New" font-size="12">1,1</text>
+<g id="association-is author">
+	<path d="M 258 363 a 14 14 90 0 1 14 14 V 389 h -92 V 377 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 272 389.0 v 12 a 14 14 90 0 1 -14 14 H 194 a 14 14 90 0 1 -14 -14 V 389.0 H 92" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="180" y="363" width="92" height="52" fill="none" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="180" y1="389" x2="272" y2="389" stroke="#85956b" stroke-width="1"/>
+	<text x="187" y="381.6" fill="#27360c" font-family="Courier New" font-size="14">is author</text>
+</g>
+
+<!-- Association has4 -->
+<line x1="378" y1="389" x2="504" y2="389" stroke="#726f83" stroke-width="1"/>
+<text x="456" y="405.0" fill="#726f83" font-family="Courier New" font-size="12">0,N</text>
+<line x1="639" y1="389" x2="504" y2="389" stroke="#726f83" stroke-width="1"/>
+<text x="563" y="405.0" fill="#726f83" font-family="Courier New" font-size="12">0,N</text>
+<g id="association-has4">
+	<path d="M 510 363 a 14 14 90 0 1 14 14 V 389 h -40 V 377 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 524 389.0 v 12 a 14 14 90 0 1 -14 14 H 498 a 14 14 90 0 1 -14 -14 V 389.0 H 40" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="484" y="363" width="40" height="52" fill="none" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="484" y1="389" x2="524" y2="389" stroke="#85956b" stroke-width="1"/>
+	<text x="491" y="381.6" fill="#27360c" font-family="Courier New" font-size="14">has</text>
+</g>
+
+<!-- Association has1 -->
+<line x1="78" y1="156" x2="226" y2="156" stroke="#726f83" stroke-width="1"/>
+<text x="131" y="172.0" fill="#726f83" font-family="Courier New" font-size="12">0,N</text>
+<line x1="378" y1="156" x2="226" y2="156" stroke="#726f83" stroke-width="1"/>
+<text x="277" y="172.0" fill="#726f83" font-family="Courier New" font-size="12">1,1</text>
+<g id="association-has1">
+	<path d="M 232 130 a 14 14 90 0 1 14 14 V 156 h -40 V 144 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 246 156.0 v 12 a 14 14 90 0 1 -14 14 H 220 a 14 14 90 0 1 -14 -14 V 156.0 H 40" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="206" y="130" width="40" height="52" fill="none" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="206" y1="156" x2="246" y2="156" stroke="#85956b" stroke-width="1"/>
+	<text x="213" y="148.6" fill="#27360c" font-family="Courier New" font-size="14">has</text>
+</g>
+
+<!-- Association has2 -->
+<line x1="378" y1="156" x2="504" y2="156" stroke="#726f83" stroke-width="1"/>
+<text x="456" y="172.0" fill="#726f83" font-family="Courier New" font-size="12">0,N</text>
+<line x1="639" y1="156" x2="504" y2="156" stroke="#726f83" stroke-width="1"/>
+<text x="529" y="172.0" fill="#726f83" font-family="Courier New" font-size="12">1,1</text>
+<g id="association-has2">
+	<path d="M 510 130 a 14 14 90 0 1 14 14 V 156 h -40 V 144 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 524 156.0 v 12 a 14 14 90 0 1 -14 14 H 498 a 14 14 90 0 1 -14 -14 V 156.0 H 40" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="484" y="130" width="40" height="52" fill="none" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="484" y1="156" x2="524" y2="156" stroke="#85956b" stroke-width="1"/>
+	<text x="491" y="148.6" fill="#27360c" font-family="Courier New" font-size="14">has</text>
+</g>
+
+<!-- Association has3 -->
+<line x1="378" y1="156" x2="378" y2="277" stroke="#726f83" stroke-width="1"/>
+<text x="383.0" y="243" fill="#726f83" font-family="Courier New" font-size="12">1,1</text>
+<line x1="378" y1="389" x2="378" y2="277" stroke="#726f83" stroke-width="1"/>
+<text x="383.0" y="319" fill="#726f83" font-family="Courier New" font-size="12">0,N</text>
+<g id="association-has3">
+	<path d="M 384 251 a 14 14 90 0 1 14 14 V 277 h -40 V 265 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 398 277.0 v 12 a 14 14 90 0 1 -14 14 H 372 a 14 14 90 0 1 -14 -14 V 277.0 H 40" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="358" y="251" width="40" height="52" fill="none" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="358" y1="277" x2="398" y2="277" stroke="#85956b" stroke-width="1"/>
+	<text x="365" y="269.6" fill="#27360c" font-family="Courier New" font-size="14">has</text>
+</g>
+
+<!-- Entity LEVEL -->
+<g id="entity-LEVEL">
+	<g id="frame-LEVEL">
+		<rect x="30" y="103" width="96" height="26" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="30" y="129.0" width="96" height="80" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="30" y="103" width="96" height="106" fill="none" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="30" y1="129" x2="126" y2="129" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="56" y="121.6" fill="#131114" font-family="Courier New" font-size="14">LEVEL</text>
+	<text x="35" y="147.6" fill="#3e3c42" font-family="Courier New" font-size="14">level name</text>
+	<line x1="35" y1="150.0" x2="120" y2="150.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="35" y="165.6" fill="#3e3c42" font-family="Courier New" font-size="14">status</text>
+	<text x="35" y="183.6" fill="#3e3c42" font-family="Courier New" font-size="14">created at</text>
+	<text x="35" y="201.6" fill="#3e3c42" font-family="Courier New" font-size="14">updated at</text>
+</g>
+
+<!-- Entity QUESTION -->
+<g id="entity-QUESTION">
+	<g id="frame-QUESTION">
+		<rect x="305" y="85" width="146" height="26" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="305" y="111.0" width="146" height="116" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="305" y="85" width="146" height="142" fill="none" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="305" y1="111" x2="451" y2="111" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="344" y="103.6" fill="#131114" font-family="Courier New" font-size="14">QUESTION</text>
+	<text x="310" y="129.6" fill="#3e3c42" font-family="Courier New" font-size="14">question content</text>
+	<line x1="310" y1="132.0" x2="446" y2="132.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="310" y="147.6" fill="#3e3c42" font-family="Courier New" font-size="14">anecdote</text>
+	<text x="310" y="165.6" fill="#3e3c42" font-family="Courier New" font-size="14">wiki</text>
+	<text x="310" y="183.6" fill="#3e3c42" font-family="Courier New" font-size="14">status</text>
+	<text x="310" y="201.6" fill="#3e3c42" font-family="Courier New" font-size="14">created at</text>
+	<text x="310" y="219.6" fill="#3e3c42" font-family="Courier New" font-size="14">updated at</text>
+</g>
+
+<!-- Entity QUIZ -->
+<g id="entity-QUIZ">
+	<g id="frame-QUIZ">
+		<rect x="305" y="327" width="146" height="26" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="305" y="353.0" width="146" height="98" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="305" y="327" width="146" height="124" fill="none" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="305" y1="353" x2="451" y2="353" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="360" y="345.6" fill="#131114" font-family="Courier New" font-size="14">QUIZ</text>
+	<text x="310" y="371.6" fill="#3e3c42" font-family="Courier New" font-size="14">title</text>
+	<line x1="310" y1="374.0" x2="353" y2="374.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="310" y="389.6" fill="#3e3c42" font-family="Courier New" font-size="14">quiz description</text>
+	<text x="310" y="407.6" fill="#3e3c42" font-family="Courier New" font-size="14">status</text>
+	<text x="310" y="425.6" fill="#3e3c42" font-family="Courier New" font-size="14">created at</text>
+	<text x="310" y="443.6" fill="#3e3c42" font-family="Courier New" font-size="14">updated at</text>
+</g>
+
+<!-- Entity TAG -->
+<g id="entity-TAG">
+	<g id="frame-TAG">
+		<rect x="591" y="336" width="96" height="26" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="591" y="362.0" width="96" height="80" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="591" y="336" width="96" height="106" fill="none" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="591" y1="362" x2="687" y2="362" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="626" y="354.6" fill="#131114" font-family="Courier New" font-size="14">TAG</text>
+	<text x="596" y="380.6" fill="#3e3c42" font-family="Courier New" font-size="14">tag name</text>
+	<line x1="596" y1="383.0" x2="664" y2="383.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="596" y="398.6" fill="#3e3c42" font-family="Courier New" font-size="14">status</text>
+	<text x="596" y="416.6" fill="#3e3c42" font-family="Courier New" font-size="14">created at</text>
+	<text x="596" y="434.6" fill="#3e3c42" font-family="Courier New" font-size="14">updated at</text>
+</g>
+
+<!-- Entity ANSWER -->
+<g id="entity-ANSWER">
+	<g id="frame-ANSWER">
+		<rect x="557" y="103" width="164" height="26" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="557" y="129.0" width="164" height="80" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="557" y="103" width="164" height="106" fill="none" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="557" y1="129" x2="721" y2="129" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="613" y="121.6" fill="#131114" font-family="Courier New" font-size="14">ANSWER</text>
+	<text x="562" y="147.6" fill="#3e3c42" font-family="Courier New" font-size="14">answer description</text>
+	<line x1="562" y1="150.0" x2="715" y2="150.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="562" y="165.6" fill="#3e3c42" font-family="Courier New" font-size="14">status</text>
+	<text x="562" y="183.6" fill="#3e3c42" font-family="Courier New" font-size="14">created at</text>
+	<text x="562" y="201.6" fill="#3e3c42" font-family="Courier New" font-size="14">updated at</text>
+</g>
+
+<!-- Entity APP_USER -->
+<g id="entity-APP_USER">
+	<g id="frame-APP_USER">
+		<rect x="9" y="309" width="138" height="26" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="9" y="335.0" width="138" height="134" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="9" y="309" width="138" height="160" fill="none" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="9" y1="335" x2="147" y2="335" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="44" y="327.6" fill="#131114" font-family="Courier New" font-size="14">APP_USER</text>
+	<text x="14" y="353.6" fill="#3e3c42" font-family="Courier New" font-size="14">first name</text>
+	<line x1="14" y1="356.0" x2="99" y2="356.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="14" y="371.6" fill="#3e3c42" font-family="Courier New" font-size="14">last name</text>
+	<text x="14" y="389.6" fill="#3e3c42" font-family="Courier New" font-size="14">email</text>
+	<text x="14" y="407.6" fill="#3e3c42" font-family="Courier New" font-size="14">hashed password</text>
+	<text x="14" y="425.6" fill="#3e3c42" font-family="Courier New" font-size="14">status</text>
+	<text x="14" y="443.6" fill="#3e3c42" font-family="Courier New" font-size="14">created at</text>
+	<text x="14" y="461.6" fill="#3e3c42" font-family="Courier New" font-size="14">updated at</text>
+</g>
+</svg>
